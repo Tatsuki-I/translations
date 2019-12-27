@@ -1,0 +1,126 @@
+{
+    "languages": [
+        {
+            "code": "en",
+            "emoji": "🇺🇸",
+            "name": "English",
+            "default": true
+        },
+        {
+            "code": "es",
+            "emoji": "🇪🇸",
+            "name": "Español",
+            "default": false
+        },
+        {
+            "code": "fr",
+            "emoji": "🇫🇷",
+            "name": "Français",
+            "default": false
+        },
+        {
+            "code": "ja",
+            "emoji": "🇯🇵",
+            "name": "日本語",
+            "default": false
+        },
+        {
+            "code": "ru",
+            "emoji": "🇷🇺",
+            "name": "Русский",
+            "default": false
+        },
+        {
+            "code": "zh",
+            "emoji": "🇨🇳",
+            "name": "简体中文",
+            "default": false
+        }
+    ],
+    "translations": {
+        "en": {
+            "search.placeholder": "Search...",
+            "search.noResults": "No results found for query",
+            "releases.main": "Main",
+            "toc.poweredBy": "Powered by {gitbook}",
+            "page.content.articles": "Here are the articles in this section:",
+            "page.content.empty": "This page is empty.",
+            "page.previous": "Previous",
+            "page.next": "Next",
+            "page.footer.lastUpdated": "Last updated {date}",
+            "page.footer.pageHelpful": "Was this page helpful?",
+            "tocMini.contents": "Contents",
+            "tocMini.exportPDF": "Export as PDF"
+        },
+        "es": {
+            "search.placeholder": "Buscar...",
+            "search.noResults": "No se han encontrado resultados para",
+            "releases.main": "Principal",
+            "toc.poweredBy": "Accionado por {gitbook}",
+            "page.content.articles": "Aquí están los artículos de esta sección:",
+            "page.content.empty": "Esta página está vacía.",
+            "page.previous": "Anterior",
+            "page.next": "Próximo",
+            "page.footer.lastUpdated": "Última actualización {date}",
+            "page.footer.pageHelpful": "¿Te ha sido útil esta página?",
+            "tocMini.contents": "Contenidos",
+            "tocMini.exportPDF": "Exportar como PDF"
+        },
+        "fr": {
+            "search.placeholder": "Rechercher...",
+            "search.noResults": "Aucun résultat trouvé pour",
+            "releases.main": "Principale",
+            "toc.poweredBy": "Propulsé par {gitbook}",
+            "page.content.articles": "Voici les articles de cette section :",
+            "page.content.empty": "Cette page est vide.",
+            "page.previous": "Précédent",
+            "page.next": "Suivant",
+            "page.footer.lastUpdated": "Dernière mise à jour {date}",
+            "page.footer.pageHelpful": "Cette page vous a t-elle aidée ?",
+            "tocMini.contents": "Sommaire",
+            "tocMini.exportPDF": "Exporter en PDF"
+        },
+        "ja": {
+            "search.placeholder": "搜索文档...",
+            "search.noResults": "結果なし",
+            "releases.main": "一次",
+            "toc.poweredBy": "{gitbook} 上で動作しています",
+            "page.content.articles": "このセクションの記事は次のとおりです:",
+            "page.content.empty": "このページは空です。",
+            "page.previous": "前",
+            "page.next": "次",
+            "page.footer.lastUpdated": "最終更新 {date}",
+            "page.footer.pageHelpful": "このページは役に立ちましたか？",
+            "tocMini.contents": "目次",
+            "tocMini.exportPDF": "PDFにエクスポート"
+        },
+        "ru": {
+            "search.placeholder": "Поиск...",
+            "search.noResults": "Нет результатов для",
+            "releases.main": "Главный",
+            "toc.poweredBy": "Работает на {gitbook}",
+            "page.content.articles": "Вот статьи в этом разделе:",
+            "page.content.empty": "Эта страница пуста.",
+            "page.previous": "Предыдущий",
+            "page.next": "Следующий",
+            "page.footer.lastUpdated": "Последнее обновление {date}",
+            "page.footer.pageHelpful": "Эта страница была полезной?",
+            "tocMini.contents": "Содержание",
+            "tocMini.exportPDF": "Экспорт в формате PDF"
+        },
+        "zh": {
+            "search.placeholder": "検索...",
+            "search.noResults": "无结果",
+            "releases.main": "主要",
+            "toc.poweredBy": "由 {gitbook} 提供支持",
+            "page.content.articles": "以下是本节中的文章：",
+            "page.content.empty": "此页为空。",
+            "page.previous": "以前",
+            "page.next": "下一个",
+            "page.footer.lastUpdated": "最近更新 {date}",
+            "page.footer.pageHelpful": "此页面是否有帮助？",
+            "tocMini.contents": "内容",
+            "tocMini.exportPDF": "导出为PDF"
+        }
+    }
+}
