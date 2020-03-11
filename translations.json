@@ -81,18 +81,18 @@
             "tocMini.exportPDF": "Exporter en PDF"
         },
         "ja": {
-            "search.placeholder": "搜索文档...",
+            "search.placeholder": "検索...",
             "search.noResults": "結果なし",
-            "releases.main": "一次",
+            "releases.main": "メイン",
             "toc.poweredBy": "{gitbook} 上で動作しています",
-            "page.content.articles": "このセクションの記事は次のとおりです:",
-            "page.content.empty": "このページは空です。",
+            "page.content.articles": "このセクションの記事は以下の通りです:",
+            "page.content.empty": "空のページです。",
             "page.previous": "前",
             "page.next": "次",
             "page.footer.lastUpdated": "最終更新 {date}",
             "page.footer.pageHelpful": "このページは役に立ちましたか？",
             "tocMini.contents": "目次",
-            "tocMini.exportPDF": "PDFにエクスポート"
+            "tocMini.exportPDF": "PDFに出力"
         },
         "ru": {
             "search.placeholder": "Поиск...",
